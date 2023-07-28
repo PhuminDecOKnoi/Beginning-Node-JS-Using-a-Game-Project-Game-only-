@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "inity": "^1.0.5",
+    "json": "^11.0.0",
+    "lodash": "^4.17.21",
+    "node": "^20.5.0",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.1"
+  }
+}
