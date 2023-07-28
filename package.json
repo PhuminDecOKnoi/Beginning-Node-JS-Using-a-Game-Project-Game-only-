@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.18.2",
     "inity": "^1.0.5",
     "json": "^11.0.0",
